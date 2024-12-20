@@ -1,6 +1,6 @@
 <h2> welcome to my profile </h2>
 
-i'm a 15 year old romanian programmer
+i'm a 16 year old romanian programmer
 
 * i know quite a bit of python, <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=16>
 
