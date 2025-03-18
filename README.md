@@ -1,14 +1,6 @@
 <h2> welcome to my profile </h2>
 
-i'm a 16 year old romanian programmer
-
-* i know quite a bit of python, <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width=16>
-
-* i know how to make a pretty simple qt app, <img src="https://variwiki.com/images/4/4e/Qt_logo.png" width=16>
-
-* and i am dabbling in zdoom modding <img src="https://user-images.githubusercontent.com/30739239/35974607-dfff8840-0cc0-11e8-97c8-154633d4924e.png" width=16>
-
-hope i can make big things before i grow old and Die
+Please remind me to remake this as i don't use qt or make gzdoom mods anymore
 
 <div>
   <a href="https://x.com/danatationn"> <img src="https://img.shields.io/badge/twitter-blue?style=flat&logo=x&logoColor=white" alt="twitter badge"> </a>
