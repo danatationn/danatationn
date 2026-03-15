@@ -1,5 +1,3 @@
-average jetbrains fan
-
 <a href="https://github.com/danatationn/Rencher">rencher</a> is my baby
 
 <h2>stack</h2>
@@ -21,4 +19,4 @@ average jetbrains fan
 </div>
 
 <br/>
-#StoneAllVibeCoders2025
+#StoneAllVibeCoders2026
