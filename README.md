@@ -1,22 +1,11 @@
-<a href="https://github.com/danatationn/Rencher">rencher</a> is my baby
-
-<h2>stack</h2>
+<h3>stack</h3>
 <div>
-	<img alt="Python" src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white&color=black">
-	<img alt="GTK" src="https://img.shields.io/badge/gtk-white?style=for-the-badge&logo=gtk&logoColor=white&color=black">
-	<img alt="Linux" src="https://img.shields.io/badge/linux-white?style=for-the-badge&logo=arch%20linux&logoColor=white&color=black">
-	<img alt="Fish Shell" src="https://img.shields.io/badge/fish-white?style=for-the-badge&logo=fish%20shell&logoColor=white&color=black">
-	<img alt="GitHub Pages" src="https://img.shields.io/badge/github%20pages-white?style=for-the-badge&logo=github&color=black">
-	<img alt="Figma" src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=white&color=black">
-	<img alt="C++" src="https://img.shields.io/badge/c%2B%2B-white?style=for-the-badge&logo=c%2B%2B&color=black">
-	<img alt="Java" src="https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=white&color=black">
+	<img alt="Python" src="https://img.shields.io/badge/python-white?style=flat&logo=python&logoColor=white&color=black">
+	<img alt="Rust" src="https://img.shields.io/badge/rust-white?style=flat&logo=rust&logoColor=white&color=black">
+	<img alt="GTK" src="https://img.shields.io/badge/gtk-white?style=flat&logo=gtk&logoColor=white&color=black">
+	<img alt="Linux" src="https://img.shields.io/badge/linux-white?style=flat&logo=linux&logoColor=white&color=black">
 </div>
-
-<br/>
 <div>
 	<a href="https://danatationn.github.io"> <img src="https://img.shields.io/badge/linktree-red?style=flat&logo=html5&logoColor=black&color=white" alt="website badge"> </a>
 	<img src="https://komarev.com/ghpvc/?username=danatationn&style=flat&color=000000">
 </div>
-
-<br/>
-#StoneAllVibeCoders2026
